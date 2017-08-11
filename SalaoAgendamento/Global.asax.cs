@@ -13,6 +13,7 @@ namespace SalaoAgendamento
         {
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
+            //Zuba
         }
     }
 }
